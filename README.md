@@ -1,4 +1,4 @@
-# Installing PySpark for Big Data CS-GY 6513
+# Installing PySpark for Big Data CS-GY 6513 (on your local machine)
 
 ## 1. Install JDK 8
 
@@ -43,7 +43,7 @@ pip install pyspark[sql]
 pip install pyspark[pandas_on_spark] plotly  # to plot your data, you can install plotly together
 ```
 
-4. OPen a new notebook and run the following code to start a new spark session:
+4. Open a new notebook and run the following code to start a new spark session:
 ```python
 import os
 import pyspark
