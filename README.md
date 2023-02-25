@@ -21,8 +21,6 @@ Open the settings dialog from the to right menu.
 
 Go to `Server` tab and select or install Bundled Python environement (if not already installed). Click `Apply & Restart`.
 ![Server](https://user-images.githubusercontent.com/83875912/221332340-96b9c3bf-d7f1-4f34-af85-75d268660388.png)
-
-
 ## 3. Install PySpark
 [PySpark Installation Guide](https://spark.apache.org/docs/latest/api/python/getting_started/install.html#using-pypi)
 
@@ -40,7 +38,7 @@ pip install pyspark[sql]
 # pandas API on Spark
 pip install pyspark[pandas_on_spark] plotly  # to plot your data, you can install plotly together
 ```
-
+## 4. Start Spark Session
 Open a new notebook and run the following code to start a new spark session:
 ```python
 import os
