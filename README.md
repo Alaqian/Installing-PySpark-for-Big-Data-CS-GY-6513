@@ -6,15 +6,13 @@ Download link: https://www.oracle.com/java/technologies/javase/javase8-archive-d
 
 You will need to create and account and sign-in in order to download it.
 
-## 2. Create new environment variables
-
 Press start and search for "Edit environment variables for your account"
 
 Click new and add 'JAVA_HOME' with the path for your java folder e.g. C:\Program Files\Java\jdk1.8.0_202 and jre folder 'JRE_HOME' with the path for your java folder e.g. C:\Program Files\Java\jre1.8.0_361
 
 ![Edit Path Variables](https://user-images.githubusercontent.com/83875912/221330980-8e78f28f-e578-4e6c-b5df-bf34cc241442.png)
 
-## 3. Install JupyterLab Desktop
+## 2. Install JupyterLab Desktop
 
 Download and Install JupyerLab Desktop: [JupyterLab Desktop Installation Guide](https://github.com/jupyterlab/jupyterlab-desktop#installation)
 
@@ -25,7 +23,7 @@ Go to `Server` tab and select or install Bundled Python environement (if not alr
 ![Server](https://user-images.githubusercontent.com/83875912/221332340-96b9c3bf-d7f1-4f34-af85-75d268660388.png)
 
 
-## 4. Install PySpark
+## 3. Install PySpark
 [PySpark Installation Guide](https://spark.apache.org/docs/latest/api/python/getting_started/install.html#using-pypi)
 
 From the launcher, click `Terminal` to start a new session.
@@ -43,7 +41,7 @@ pip install pyspark[sql]
 pip install pyspark[pandas_on_spark] plotly  # to plot your data, you can install plotly together
 ```
 
-4. Open a new notebook and run the following code to start a new spark session:
+Open a new notebook and run the following code to start a new spark session:
 ```python
 import os
 import pyspark
