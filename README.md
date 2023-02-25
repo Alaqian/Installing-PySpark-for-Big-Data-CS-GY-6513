@@ -24,7 +24,7 @@ Go to `Server` tab and select or install `Bundled Python environement` (if not a
 
 ![Server](https://user-images.githubusercontent.com/83875912/221332340-96b9c3bf-d7f1-4f34-af85-75d268660388.png)
 ## 3. Install PySpark
-From the launcher on JupyterLab Desktop, click `Terminal` to start a new session.
+From the launcher on JupyterLab Desktop, click `Terminal`.
 
 PySpark installation using PyPI is as follows:
 ```cmd
