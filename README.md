@@ -1,4 +1,4 @@
-# Installing-PySpark-for-Big-Data-CS-GY-6513
+# Installing PySpark for Big Data CS-GY 6513
 
 ## 1. Install JDK 8
 
