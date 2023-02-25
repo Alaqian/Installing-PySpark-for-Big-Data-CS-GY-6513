@@ -17,9 +17,11 @@ Click new and add 'JAVA_HOME' with the path for your java folder e.g. C:\Program
 Download and Install JupyerLab Desktop: [JupyterLab Desktop Installation Guide](https://github.com/jupyterlab/jupyterlab-desktop#installation)
 
 Open the settings dialog from the to right menu. 
+
 ![JupyterLab Desktop Settings](https://user-images.githubusercontent.com/83875912/221332625-62128c05-7456-4461-bffc-e50cf4b59731.png)
 
 Go to `Server` tab and select or install Bundled Python environement (if not already installed). Click `Apply & Restart`.
+
 ![Server](https://user-images.githubusercontent.com/83875912/221332340-96b9c3bf-d7f1-4f34-af85-75d268660388.png)
 ## 3. Install PySpark
 [PySpark Installation Guide](https://spark.apache.org/docs/latest/api/python/getting_started/install.html#using-pypi)
