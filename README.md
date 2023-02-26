@@ -8,7 +8,7 @@ You will need to create and account and sign-in in order to download it.
 
 Press start and search for "Edit environment variables for your account"
 
-Click new and add 'JAVA_HOME' with the path for your java folder e.g. C:\Program Files\Java\jdk1.8.0_202 and jre folder 'JRE_HOME' with the path for your java folder e.g. C:\Program Files\Java\jre1.8.0_361
+Click new and add 'JAVA_HOME' with the path for your java jdk folder e.g. C:\Program Files\Java\jdk1.8.0_202 and add 'JRE_HOME' with the path for your java java jre folder e.g. C:\Program Files\Java\jre1.8.0_361
 
 ![Edit Path Variables](https://user-images.githubusercontent.com/83875912/221330980-8e78f28f-e578-4e6c-b5df-bf34cc241442.png)
 
