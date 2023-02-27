@@ -4,7 +4,7 @@
 
 Download link: https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html
 
-You will need to create and account and sign-in in order to download it.
+You will need to create an account and sign-in in order to download it.
 
 Press start and search for "Edit environment variables for your account"
 
@@ -16,11 +16,11 @@ Click new and add 'JAVA_HOME' with the path for your java jdk folder e.g. C:\Pro
 
 Download and Install JupyerLab Desktop: [JupyterLab Desktop Installation Guide](https://github.com/jupyterlab/jupyterlab-desktop#installation)
 
-Open the settings dialog from the to right menu. 
+Open the settings dialog from the top right menu. 
 
 ![JupyterLab Desktop Settings](https://user-images.githubusercontent.com/83875912/221332625-62128c05-7456-4461-bffc-e50cf4b59731.png)
 
-Go to `Server` tab and select or install `Bundled Python environement` (if not already installed). Click `Apply & Restart`.
+Go to the `Server` tab and select or install `Bundled Python environement` (if not already installed). Click `Apply & Restart`.
 
 ![Server](https://user-images.githubusercontent.com/83875912/221332340-96b9c3bf-d7f1-4f34-af85-75d268660388.png)
 ## 3. Install PySpark
