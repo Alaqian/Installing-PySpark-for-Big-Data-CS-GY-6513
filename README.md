@@ -20,7 +20,7 @@ Open the settings dialog from the top right menu.
 
 ![JupyterLab Desktop Settings](https://user-images.githubusercontent.com/83875912/221332625-62128c05-7456-4461-bffc-e50cf4b59731.png)
 
-Go to the `Server` tab and select or install `Bundled Python environement` (if not already installed). Click `Apply & Restart`.
+Go to the `Server` tab and select `Bundled Python environement` or `install Bundled Python environement` if not already installed. Click `Apply & Restart`.
 
 ![Server](https://user-images.githubusercontent.com/83875912/221332340-96b9c3bf-d7f1-4f34-af85-75d268660388.png)
 ## 3. Install PySpark
