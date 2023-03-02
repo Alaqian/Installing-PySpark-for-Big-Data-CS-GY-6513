@@ -49,3 +49,5 @@ conf = pyspark.SparkConf()
 sc = pyspark.SparkContext(conf=conf)
 spark = pyspark.sql.SparkSession(sc)
 ```
+
+Download dataset used in class: [Electric_Vehicle_Population_Data.csv](https://data.wa.gov/api/views/f6w7-q2d2/rows.csv?accessType=DOWNLOAD) (26.9 MB)
