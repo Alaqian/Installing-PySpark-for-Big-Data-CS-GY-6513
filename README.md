@@ -45,6 +45,9 @@ Open a new notebook and run the following code to start a new spark session:
 ```python
 import os
 import pyspark
+import sys
+os.environ['PYSPARK_PYTHON'] = sys.executable
+os.environ['PYSPARK_DRIVER_PYTHON'] = sys.executable
 conf = pyspark.SparkConf()
 sc = pyspark.SparkContext(conf=conf)
 spark = pyspark.sql.SparkSession(sc)
