@@ -54,4 +54,5 @@ spark = pyspark.sql.SparkSession(sc)
 ```
 
 Download dataset used in class: [Electric_Vehicle_Population_Data.csv](https://data.wa.gov/api/views/f6w7-q2d2/rows.csv?accessType=DOWNLOAD) (26.9 MB)
+
 All other datasets used in the class demos and more PySpark resources can be found here: [Spark: The Definitive Guide](https://github.com/databricks/Spark-The-Definitive-Guide)
