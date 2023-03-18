@@ -6,6 +6,7 @@
   - [Option 2](#Option-2)
 - [Dataset used in class](#Dataset-used-in-class)
 
+
 ## Installing PySpark on your local machine
 
 ### 1. Install JDK 8
@@ -94,7 +95,7 @@ spark = SparkSession.builder.master("local[*]").getOrCreate()
 spark.conf.set("spark.sql.repl.eagerEval.enabled", True) # Property used to format output tables better
 spark
 ```
-## Option 2
+### Option 2
 
 Go to this link, click file and save your own copy and execute the first cell: [Colab PySpark Notebook](https://githubtocolab.com/Alaqian/Installing-PySpark-for-Big-Data-CS-GY-6513/blob/main/Colab%20PySpark%20Notebook.ipynb)
 
