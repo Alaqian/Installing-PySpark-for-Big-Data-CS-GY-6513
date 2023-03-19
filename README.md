@@ -99,7 +99,7 @@ spark
 
 Go to this link, click file and save your own copy and execute the first cell: [Colab PySpark Notebook](https://githubtocolab.com/Alaqian/Installing-PySpark-for-Big-Data-CS-GY-6513/blob/main/Colab%20PySpark%20Notebook.ipynb)
 
-More information on this notebook: [Colab and PySpark](https://colab.research.google.com/drive/1G894WS7ltIUTusWWmsCnF_zQhQqZCDOc#scrollTo=Dd6t0uFzuR4X)
+More information on Colab and PySpark here: https://colab.research.google.com/drive/1G894WS7ltIUTusWWmsCnF_zQhQqZCDOc#scrollTo=Dd6t0uFzuR4X
 ## Dataset used in class
 
 Download dataset used in class: [Electric_Vehicle_Population_Data.csv](https://data.wa.gov/api/views/f6w7-q2d2/rows.csv?accessType=DOWNLOAD) (26.9 MB)
